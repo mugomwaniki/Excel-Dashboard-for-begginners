@@ -1,0 +1,2 @@
+The project above was a begginer friendly for a bicycle sales dashborad.It was meant to capture insights of bicycle purchases using 3 metrics that is 1.marital status. 2. region . levels of education. 
+I developed a working sheet from the bike buyers,went across pivot tables which then helped track and formulate a dashboard.Its generally been used ton  get insightts frim different regions using marital status and levels of education.
